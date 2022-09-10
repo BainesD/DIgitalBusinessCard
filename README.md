@@ -3,7 +3,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 # Digital Business Card
-========================
 
 This is a digital business card designed using React.js and CSS. The task of creating this business card was part of a FreeCodeCamp tutorial showing the basics of React and how to use it to create static pages. The project files are split into two folders.
 
