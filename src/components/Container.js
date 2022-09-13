@@ -4,6 +4,7 @@ import headshot from "../images/HeadshotFormal.jpg"
 import About from "./About"
 import Interests from "./Interests.js";
 import Contact from "./Contact";
+import SocialMedia from "./SocialMedia";
 
 export default function Container()
 {
@@ -16,6 +17,7 @@ export default function Container()
             <Contact/>
             <About/>
             <Interests/>
+            <SocialMedia/>
         </div>
         </>
     )
