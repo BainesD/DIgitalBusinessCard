@@ -6,7 +6,7 @@ export default function Interests(){
         <>
         <div className="container-text">
         <h4 className="container-head">Interests</h4>
-        <p className="container-body">World traveler. Technology geek. Lover of all things nerdy. Lifelong learner. Wine & coffe enthusiast.</p>
+        <p className="container-body">World traveler. Technology geek. Lover of all things nerdy. Lifelong learner. Wine & coffee enthusiast.</p>
         </div></>
     )
 }
